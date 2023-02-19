@@ -1,10 +1,4 @@
 name: Metrics
-  uses:lowlighter/metrics@latest
-  with:
-    template: terminal
-    filename: metrics.terminal.svg
-    token: ${{ secrets.MU_PROFILE }}
-    base: header, metadata
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
