@@ -4,5 +4,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,php,mysql,ajax)](https://skillicons.dev)
 
-
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
