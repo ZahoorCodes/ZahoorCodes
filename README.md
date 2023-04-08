@@ -20,7 +20,6 @@ But Zahoor Ahmed Shah is more than just a great developer. They are also a passi
 So come and join Zahoor Ahmed Shah on their GitHub journey, and see what kind of magic they can create. 🔮 Whether you're a seasoned developer or just starting out, there's always something new to learn and discover in this exciting world of code. 🌟
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xahurs)](https://github.com/xahurs/github-profile-trophy)
-<br>
+
  
 ![Metrics](https://metrics.lecoq.io/xahurs?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
