@@ -18,6 +18,10 @@ ZAHOOR WRITES
 Posts
 -----
 
+*   Apr 25, 2023
+    
+    ### [Steps You Can Take To Get Started On The Development Of Any Web Application.](https://zahoorcodes.github.io/Tutorials/2023/04/25/The-future-of-artificial-intelligence-in-healthcare.html)
+    
 *   Apr 21, 2023
     
     ### [Steps You Can Take To Get Started On The Development Of Any Web Application.](https://zahoorcodes.github.io/Tutorials/2023/04/21/steps-you-can-take-to-get-started-on-the-development-of-any-web-application/html)
