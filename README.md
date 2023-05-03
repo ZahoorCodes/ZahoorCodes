@@ -10,7 +10,7 @@ My name is Zahoor Shah. Currently working at Ngagerx  as Tech Lead . I'm always 
 
 ![zahoor's trophy](https://github-profile-trophy.vercel.app/?username=zahoorcodes&theme=nord&column=7&margin-w=10&margin-h=15) -->
 
-![zahoor's blog](https://github-read-medium.vercel.app/latest?username=zahoor-codes&limit=6&theme=nord)
+![zahoor's blog](https://github-read-medium.vercel.app/latest?username=zahoor-codes&limit=6&theme=vue)
 
 ## Get in Touch
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
