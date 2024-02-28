@@ -1,7 +1,7 @@
 
 # Hello!
 
-As an experienced Tech Lead with over 8 years of experience in software engineering, I have a strong understanding of SDLC techniques and software quality analysis. My expertise lies in computer science and engineering, and I am currently working with Ngagerx Private Ltd (cb physiotherapy) as a Tech Lead.
+As an experienced Tech Lead with over 9 years of experience in software engineering, I have a strong understanding of SDLC techniques and software quality analysis. My expertise lies in computer science and engineering, and I am currently working with Ngagerx Private Ltd (CB Physiotherapy) as a Tech Lead.
 
 My hands-on experience with Ruby on Rails technology (Rails 5 and Rails 6) and PHP technology (Core PHP, Codeigniter, and Laravel) has helped me build and customize complex web applications and deploy code on both VPS and shared hosts. Additionally, I am proficient in ASP.NET MVC Entity Framework, which I learned in the initial phase of my career.
 
@@ -9,7 +9,7 @@ I have a deep understanding of SDLC specifications like requirement analysis, fe
 
 I possess excellent team management and project management skills and have provided training to new joiners while presenting projects/seminars with motivational and technical skills. My strong technical and management skills, combined with a technical mindset and the ability to interface with people at all levels, have helped me excel in my career.
 
-I am proficient in AWS web services such as S3 Buckets and payment gateway and SMS/Call-Gateway integration. Moreover, I have a working knowledge of Technical SEO, which has helped me develop an understanding of how to optimize web applications for search engines.
+I am proficient in AWS web services such as S3 Buckets payment gateway and SMS/call gateway integration. Moreover, I have a working knowledge of Technical SEO, which has helped me develop an understanding of how to optimize web applications for search engines.
 
 In summary, I am a highly motivated Tech Lead with expertise in software engineering, SDLC techniques, and software quality analysis. My technical and management skills, combined with my ability to interface with people at all levels, have enabled me to excel in my career.
 
