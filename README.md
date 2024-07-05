@@ -65,6 +65,7 @@ ZAHOOR WRITES
     ### [Benefits Of Delaying Ajax Calls](https://zahoorcodes.github.io/Tutorials/2023/04/20/benefits-of-delaying-ajax-calls.html)
     
 
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ZahoorCodes/ZahoorCodes/output/github-contribution-grid-snake.svg" />
  -->
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ZahoorCodes/ZahoorCodes/output/github-contribution-grid-snake.svg" />
 
