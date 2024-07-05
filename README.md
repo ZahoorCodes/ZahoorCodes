@@ -83,7 +83,7 @@ ZAHOOR WRITES
  -->
 ![Snake animation](https://github.com/ZahoorCodes/ZahoorCodes/blob/output/github-contribution-grid-snake.svg)
 
-
+<br>
  
 <p align="center">
   Visitor count<br>
