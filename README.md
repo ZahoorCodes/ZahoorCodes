@@ -66,6 +66,7 @@ ZAHOOR WRITES
     
 
  -->
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ZahoorCodes/ZahoorCodes/output/github-contribution-grid-snake.svg" />
 
  <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ZahoorCodes&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
