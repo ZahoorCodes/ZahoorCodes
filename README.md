@@ -1,6 +1,10 @@
 
 # Hello!
 
+<p align="center">
+  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer!;Web%20and%20Mobile%20Expert;9%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
+</p>
+
 As an experienced Tech Lead with over 9 years of experience in software engineering, I have a strong understanding of SDLC techniques and software quality analysis. My expertise lies in computer science and engineering, and I am currently working with Ngagerx Private Ltd (CB Physiotherapy) as a Tech Lead.
 
 My hands-on experience with Ruby on Rails technology (Rails 5 and Rails 6) and PHP technology (Core PHP, Codeigniter, and Laravel) has helped me build and customize complex web applications and deploy code on both VPS and shared hosts. Additionally, I am proficient in ASP.NET MVC Entity Framework, which I learned in the initial phase of my career.
