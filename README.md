@@ -1,7 +1,7 @@
 
 # Hello!
 
-<p align="center">
+<!--p align="center">
   <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer!;Web%20and%20Mobile%20Expert;9%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
 </p>
 
@@ -94,5 +94,5 @@ ZAHOOR WRITES
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_ZahoorCodes/count.svg" />
-</p>
+</p-->
 
